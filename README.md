@@ -6,6 +6,7 @@
 
 
 
+
 ## 🎯 **Sobre Mí**
 ¡Hola!, soy **Diego**, estudiante de la carrera **Técnico Superior en Desarrollo de Software**. Cada día me esfuerzo por aprender algo nuevo y mejorar mis habilidades. Me apasiona resolver problemas y transformar ideas en soluciones funcionales.
 
