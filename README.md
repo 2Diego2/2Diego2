@@ -1,4 +1,4 @@
-# 🛠️ **Mi Portafolio en GitHub** 🎨
+![image](https://github.com/user-attachments/assets/514386e1-d678-499a-a746-6bfe91e6b7aa)# 🛠️ **Mi Portafolio en GitHub** 🎨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79A4D&width=435&lines=%C2%A1Hola!+Bienvenidos+a+mi+repositorio!;%C2%A1Explora+mi+trabajo+y+proyectos!)](https://github.com/2Diego2)
 
@@ -23,43 +23,27 @@ Hola, soy **[Diego](#)**, un apasionado del desarrollo de software con un enfoqu
 ---
 
 ### 🚀 **Proyectos Destacados**
-#### 🌐 **[Nombre del Proyecto 1](#)**
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías:** React, Node.js, MongoDB.
-
-#### 📱 **[Nombre del Proyecto 2](#)**
-- **Descripción:** Otro proyecto impresionante.
-- **Tecnologías:** Flutter, Firebase.
+#### 🌐 **[Crud Kiosco](#)**
+- **Descripción:** Sistema completo de gestión para kioscos, diseñado como un CRUD y con funcionalidad adicional para registrar ventas y manejar roles de usuarios.
+- **Tecnologías:** C++ y MYSQL
 
 ---
 
 ### 📊 **Contribuciones**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tu_usuario&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### 📝 **Últimos Artículos**
-[![Blog](https://img.shields.io/badge/Medium-Blog-03a57a?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tu_usuario)
-
-- 🌟 **[Artículo 1](#)**
-- 🌟 **[Artículo 2](#)**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2Diego2&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 🖼️ **Visualización de Proyectos**
 #### Proyecto 1
-![Captura de Proyecto 1](https://via.placeholder.com/400x200.png?text=Captura+del+Proyecto+1)
+![Captura de Proyecto 1](![image](https://github.com/user-attachments/assets/936f0a91-7e7c-4bb6-afb3-fc189231c821))
 
-#### Proyecto 2
-![Captura de Proyecto 2](https://via.placeholder.com/400x200.png?text=Captura+del+Proyecto+2)
 
----
 
-### 🌐 **Sígueme en Redes Sociales**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
 
 ---
 
-### 🛡️ **Licencia**
-Distribuido bajo la Licencia MIT. ¡Haz lo que quieras con este trabajo, pero no olvides darme crédito!
+### 🌐 **¡Sígueme!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diego-lautaro-abelleyra-892735244)
+
+
