@@ -3,12 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11E3F7&center=true&random=true&width=435&lines=%F0%9F%9B%B8%C2%A1Bienvenido+a+mi+GitHub!%F0%9F%9B%B8;%F0%9F%97%BA%EF%B8%8F%C2%A1Explora+mis+proyectos!%F0%9F%97%BA%EF%B8%8F)](https://git.io/typing-svg)
 
 
-
-
-
-
-
-
 ## 🎯 **Sobre Mí**
 ¡Hola!, soy **Diego**, estudiante de la carrera **Técnico Superior en Desarrollo de Software**. Cada día me esfuerzo por aprender algo nuevo y mejorar mis habilidades. Me apasiona resolver problemas y transformar ideas en soluciones funcionales.
 
