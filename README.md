@@ -40,8 +40,7 @@
 - ![Captura de Proyecto 1](https://private-user-images.githubusercontent.com/112115427/390515827-f2335044-b155-4013-943c-2be64506290c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI3MzIyMDMsIm5iZiI6MTczMjczMTkwMywicGF0aCI6Ii8xMTIxMTU0MjcvMzkwNTE1ODI3LWYyMzM1MDQ0LWIxNTUtNDAxMy05NDNjLTJiZTY0NTA2MjkwYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyN1QxODI1MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZTE3ODQ4YWY5NDg3NmZmODNlYTJjNDg4MDVmYWVmMDYwYzNmMWIzYzhjMTZiZDNmNTI2ZmRiYmQ2YTRmY2JhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CGbE2BsOtnnIoBVpnx7srrtZGO-HKlU1gz4N78w8A_c)
 
 ---
-
 ### 🌐 **¡Sígueme!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diego-lautaro-abelleyra-892735244)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-lautaro-abelleyra-892735244)
 
 
