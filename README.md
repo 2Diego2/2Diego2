@@ -1,7 +1,7 @@
 
 # 🛠️ **Mi Portafolio en GitHub** 🎨
+[![Hola, bienvenido a mi GitHub! Explora mis proyectos e ideas.](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79A4D&width=435&lines=%C2%A1Hola%2C+Bienvenido+a+mi+GitHub%21+Explora+mis+proyectos+y+ideas%2E)](https://github.com/2Diego2)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F79A4D&width=500&lines=%C2%A1Hola!+Bienvenidos+a+mi+repositorio!;%C2%A1Explora+mi+trabajo+y+proyectos!)](https://github.com/2Diego2)
 
 
 
