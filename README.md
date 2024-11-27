@@ -36,7 +36,7 @@ Hola, soy **[Diego](#)**, un apasionado del desarrollo de software con un enfoqu
 
 ### 🖼️ **Visualización de Proyectos**
 #### Proyecto 1
-![Captura de Proyecto 1](![image](https://github.com/user-attachments/assets/936f0a91-7e7c-4bb6-afb3-fc189231c821))
+- ![Captura de Proyecto 1](![image](https://github.com/user-attachments/assets/936f0a91-7e7c-4bb6-afb3-fc189231c821))
 
 
 
