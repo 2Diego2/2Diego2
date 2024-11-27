@@ -1,9 +1,9 @@
 # 🛠️ **Mi Portafolio en GitHub** 🎨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79A4D&width=435&lines=%C2%A1Hola!+Bienvenidos+a+mi+repositorio!;%C2%A1Explora+mi+trabajo+y+proyectos!)](https://github.com/tu_usuario)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79A4D&width=435&lines=%C2%A1Hola!+Bienvenidos+a+mi+repositorio!;%C2%A1Explora+mi+trabajo+y+proyectos!)](https://github.com/2Diego2)
 
 ## 🎯 **Sobre Mí**
-Hola, soy **[Tu Nombre](#)**, un apasionado del desarrollo de software con un enfoque en la **innovación y calidad**. Aquí encontrarás una mezcla de creatividad, habilidades técnicas y proyectos únicos diseñados para resolver problemas del mundo real.
+Hola, soy **[Diego](#)**, un apasionado del desarrollo de software con un enfoque en la **innovación y calidad**. Aquí encontrarás una mezcla de creatividad, habilidades técnicas y proyectos únicos diseñados para resolver problemas del mundo real.
 
 ---
 
@@ -17,8 +17,8 @@ Hola, soy **[Tu Nombre](#)**, un apasionado del desarrollo de software con un en
 ---
 
 ### 🌟 **Estadísticas de GitHub**
-![Tu Nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+![Tu Nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Diego2&show_icons=true&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=2Diego2&layout=compact&theme=radical)
 
 ---
 
