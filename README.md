@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79A4D&width=435&lines=%C2%A1Hola!+Bienvenidos+a+mi+repositorio!;%C2%A1Explora+mi+trabajo+y+proyectos!)](https://github.com/diego_usuario)
 
+
 ## 🎯 **Sobre Mí**
 ¡Hola!, soy **Diego**, estudiante de la carrera **Técnico Superior en Desarrollo de Software**. Cada día me esfuerzo por aprender algo nuevo y mejorar mis habilidades. Me apasiona resolver problemas y transformar ideas en soluciones funcionales.
 
